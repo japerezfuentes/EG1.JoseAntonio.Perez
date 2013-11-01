@@ -18,6 +18,7 @@ public class Operaciones {
 		System.out.println("4. Division");
 		System.out.print("selecciona una opcion del menu e introduce los valores correspondientes: ");
 		int x = Integer.parseInt(br.readLine());
+		System.out.print("valor 1: ");		
 
 	}
 }
