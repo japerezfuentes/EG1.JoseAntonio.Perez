@@ -16,6 +16,7 @@ public class Operaciones {
 		System.out.println("2. Resta");
 		System.out.println("3. Multiplicacion");
 		System.out.println("4. Division");
+		System.out.print("selecciona una opcion del menu e introduce los valores correspondientes: ");
 
 	}
 }
