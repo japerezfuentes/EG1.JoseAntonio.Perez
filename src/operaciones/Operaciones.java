@@ -17,6 +17,5 @@ public class Operaciones {
 		System.out.println("3. Multiplicacion");
 		System.out.println("4. Division");
 
-
 	}
 }
